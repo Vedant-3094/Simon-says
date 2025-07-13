@@ -1,1 +1,1 @@
-# Simon-and-say
+# Simon say
